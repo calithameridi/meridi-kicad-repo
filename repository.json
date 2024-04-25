@@ -7,8 +7,8 @@
     },
     "name": "meridi kicad repo",
     "packages": {
-        "url": "https://raw.githubusercontent.com/calithameridi/meridi-kicad-repo/master/packages.json",
-        "update_timestamp": 1714019022
+        "update_timestamp": 1714019022,
+        "url": "https://raw.githubusercontent.com/calithameridi/meridi-kicad-repo/master/packages.json"
     },
     "resources": {
         "url": "https://github.com/calithameridi/meridi-kicad-repo/raw/master/resources.zip"
