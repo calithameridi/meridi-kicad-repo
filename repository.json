@@ -1,6 +1,8 @@
 {
     "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
     "maintainer": {
+        "contact": {
+        },
         "name": "meridi"
     },
     "name": "meridi kicad repo",
