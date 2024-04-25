@@ -7,12 +7,11 @@
     },
     "name": "meridi kicad repo",
     "packages": {
-        "sha256": "33aac0ffec852f01a49acfd71d172182aba0342bdd0f0aa88bd176237fd950b4",
-        "update_time_utc": "2024-04-18 13:18:31",
-        "update_timestamp": 1713446311,
-        "url": "https://raw.githubusercontent.com/Bouni/bouni-kicad-repository/main/packages.json"
+        "update_timestamp": 1714019022,
+        "url": "https://raw.githubusercontent.com/calithameridi/meridi-kicad-repo/master/packages.json"
     },
     "resources": {
+        "update_timestamp": 1714019022,
         "url": "https://github.com/calithameridi/meridi-kicad-repo/raw/master/resources.zip"
     }
 }
