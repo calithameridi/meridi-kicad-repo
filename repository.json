@@ -5,9 +5,9 @@
     },
     "name": "meridi kicad repo",
     "packages": {
-        "url": "https://raw.githubusercontent.com/Bouni/bouni-kicad-repository/main/packages.json"
+        "url": "https://raw.githubusercontent.com/calithameridi/meridi-kicad-repo/master/packages.json"
     },
     "resources": {
-        "url": "https://github.com/Bouni/bouni-kicad-repository/raw/main/resources.zip"
+        "url": "https://github.com/calithameridi/meridi-kicad-repo/raw/master/resources.zip"
     }
 }
