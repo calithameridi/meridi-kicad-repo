@@ -1,0 +1,36 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "meridi kicad library",
+            "description": "useful footprints, schematic symbols, et cetera",
+            "description_full": "for my projects mostly. non-production use only",
+            "identifier": "com.github.calithameridi.meridi-kicad-library",
+            "type": "library",
+            "author": {
+                "name": "meridi",
+                "contact": {
+                    "web": "https://example.com"
+                }
+            },
+            "maintainer": {
+                "name": "meridi",
+                "contact": {
+                    "web": "https://example.com"
+                }
+            },
+            "license": "do not use this",
+            "resources": {
+                "homepage": "https://github.com/calithameridi"
+            },
+            "versions": [
+                {
+                    "version": "0.0.1",
+                    "status": "development",
+                    "kicad_version": "8",
+                    "download_url": "https://github.com/calithameridi/meridi-kicad-library/archive/refs/heads/master.zip"
+                }
+            ]
+        }
+    ]
+}

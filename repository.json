@@ -1,0 +1,13 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "name": "meridi"
+    },
+    "name": "meridi kicad repo",
+    "packages": {
+        "url": "https://raw.githubusercontent.com/Bouni/bouni-kicad-repository/main/packages.json"
+    },
+    "resources": {
+        "url": "https://github.com/Bouni/bouni-kicad-repository/raw/main/resources.zip"
+    }
+}
